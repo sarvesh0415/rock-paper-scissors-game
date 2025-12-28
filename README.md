@@ -16,7 +16,7 @@ It is a beginner-friendly project made while practicing Python basics.
   - `w` for Water
   - `g` for Gun
 - The game compares your choice with the computer’s choice
-- It then tells you whether you **win**, **lose**, or **draw**
+- Then it tells you whether you **win**, **lose**, or **draw**
 
 ---
 
